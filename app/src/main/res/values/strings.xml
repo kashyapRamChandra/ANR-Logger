@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ANR Logger</string>
+    <string name="check_error_file">Scan Error File</string>
+    <string name="no_error_log_found">No error log found</string>
+</resources>
